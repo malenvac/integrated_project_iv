@@ -939,6 +939,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+olist.db
+test_olist.db
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
